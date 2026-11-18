@@ -170,3 +170,5 @@ Predicted Sales for Advertising ₹45 Lakhs = 35.66 Crores
 ```
 
 ##  Result
+
+The Simple Linear Regression model was successfully implemented using Python to predict Sales based on Advertising Expenditure. The regression equation obtained is: Y=0.58+0.78X This model shows a strong linear relationship between advertising and sales, with an R
